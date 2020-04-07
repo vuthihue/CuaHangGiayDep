@@ -1,0 +1,11 @@
+D:\Bai Tap Lon\QuanLyDayDep\bin\Debug\QuanLyDayDep.exe
+D:\Bai Tap Lon\QuanLyDayDep\bin\Debug\QuanLyDayDep.pdb
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.csprojAssemblyReference.cache
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.frmTheLoai.resources
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.Properties.Resources.resources
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.csproj.GenerateResource.cache
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.exe
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.pdb
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.frmCongViec.resources
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.frmSanPham.resources
+D:\Bai Tap Lon\QuanLyDayDep\obj\Debug\QuanLyDayDep.frmMain.resources
